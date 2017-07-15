@@ -1,0 +1,8 @@
+Package: com.zweeden.quickspring
+Name: quickSpring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Testing quick spring app, command from main
+Maintainer: Zachary Weeden
+Author: Zachary Weeden
+Section: Utilities
