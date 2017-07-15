@@ -1,0 +1,8 @@
+Package: com.zweeden.lock
+Name: Lock
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: In development, testing deprecated system(), still keeping spawn import for posix_spawn when I eventually migrate over and fix UI and commands. Need to figure out if toggle or 2 apps as well as if use selector for method trigger or in main() on app execute. For now, this is a respring button. Made with Theos via NIC - 2 (application) and built/installed with make package install command. This is possible with THEOS_DEVICE_IP in my bashrc pointed to my current local ios IP and port 22. I needed to include the line "source ~/.bashrc" in /etc/profile so that $THEOS env variable would be persistent through terminal sessions. If you dont see the app after install head to terminal and run uicache command. =)
+Maintainer: Zachary Weeden
+Author: Zachary Weeden
+Section: Utilities
