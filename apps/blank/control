@@ -1,0 +1,8 @@
+Package: com.zweeden.blank
+Name: blank
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Zachary Weeden
+Author: Zachary Weeden
+Section: Utilities
