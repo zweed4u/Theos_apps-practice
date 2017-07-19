@@ -1,0 +1,9 @@
+Package: com.zweeden.lock2
+Name: lock2
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Zachary Weeden
+Author: Zachary Weeden
+Section: Utilities
+Version: 0.0.1-2+debug
+Installed-Size: 144
