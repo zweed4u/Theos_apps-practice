@@ -1,0 +1,8 @@
+Package: com.zweeden.rebootPC
+Name: rebootPC
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Reboot my workstation via ssh - thanks root ssh copy id
+Maintainer: Zachary Weeden
+Author: Zachary Weeden
+Section: Utilities
